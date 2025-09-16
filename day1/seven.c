@@ -3,6 +3,6 @@
 int main(){
     char firstName[] = "rayhaan";
     char secondName[] = "roushan";
-    printf("%s %s",firstName,secondName);
+    printf("my name is %s and last name is  %s",firstName,secondName);
     return 0;
 }
