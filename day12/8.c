@@ -10,14 +10,14 @@ int main() {
     printf("Hi %s \n", name);
 
     int a, b;
-    printf("Enter A Value please Suhail Sir: ");
+    printf("Enter A Value please affan Sir: ");
     scanf("%d", &a);
 
-    printf("Enter B value Suhail Sir: ");
+    printf("Enter B value affan Sir: ");
     scanf("%d", &b);
 
     int sum = a + b;
-    printf("Ohh Suhail sir your answer: %d\n", sum);
+    printf("Ohh affan sir your answer: %d\n", sum);
 
     return 0;
 }
