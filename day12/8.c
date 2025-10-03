@@ -10,10 +10,10 @@ int main() {
     printf("Hi %s \n", name);
 
     int a, b;
-    printf("Enter A Value please affan Sir: ");
+    printf("Enter A Value please  Sir: ");
     scanf("%d", &a);
 
-    printf("Enter B value affan Sir: ");
+    printf("Enter B value  Sir: ");
     scanf("%d", &b);
 
     int sum = a + b;
