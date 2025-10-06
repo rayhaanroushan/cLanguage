@@ -4,7 +4,7 @@ void myFunction(char name[], int age){
   printf("Hello %s. You are %d years old\n", name, age);
   main();
   return 0;
-}
+}̦
 
 int main() {
   myFunction("rayhaan", 18);
